@@ -10,8 +10,9 @@
 * People know that they have to open the app
 ### Technology used 
 * Bluetooth 
-* Hotspot
-Newer versions of these technologies have ranges upto 100m which is a much better alternative to shouting and haphazarded communication
+* Hotspot  
+Newer versions of these technologies have ranges upto 100m which is a much better alternative to shouting and haphazarded communication  
+Using Bluetooth Mesh, people even further than practical range can be connected via help of intermidiate devices
 ### Features
 * People can connect through app with nearby people via bluetooth or Hotspot as required depending on range
 * Connected people can:
