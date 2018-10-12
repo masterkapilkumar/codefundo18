@@ -3,7 +3,7 @@
 ## Need
 * Most of the times, immediate help is needed and network connectivity is not available 
 * Consider a case of a group of friends on a trekking trip, and they suddenly get lost and are unable to reach each other. They are in area of no internet or mobile connectivity, they can all open our app and start connecting with their friends, one by one until they all are together. This can also help a group of people who travelling in formation where adjacent people are nearby but extreme people being very far from each other.
-* The app can also come handy in case of trapped people in natural disasters to connect with close by people first and finally more and more people in a large spread out area start getting in contact with each other.
+* The app can also come handy in case of trapped people in natural disasters to connect with closeby people first and finally more and more people in a large spread out area start getting in contact with each other.
 * Rescue teams generally reach very late and are only able to get in touch with people on periphery but our app can also help people in very interior parts of affected area.    
 **It is important to note that all people open the app on their own when they are trapped in a disaster and their privacy at all other times is not compromised**
 ## Technology used 
